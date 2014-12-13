@@ -2,7 +2,4 @@
 
 ### Game of Life implementations
 
-
-//todo
-
-instructions on posting your implementation here...
+Add your implementation in a subdirectory and send a pull request!
